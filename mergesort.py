@@ -1,0 +1,11 @@
+list=[5,20,1,21,3,5]
+a=len(list)
+v=list[0:3]
+print(v)
+v.sort()
+u=list[3::]
+print(u)
+u.sort()
+m=v+u
+m.sort()
+print(m)

@@ -1,0 +1,4 @@
+n=[]
+n=int(input().split())
+n=(&n)
+print(n)
